@@ -2302,3 +2302,20 @@ INFO - 2024-08-07 13:13:05 --> Database Driver Class Initialized
 INFO - 2024-08-07 13:13:06 --> File loaded: C:\Xampp\htdocs\CI-3.0\application\views\products_view.php
 INFO - 2024-08-07 13:13:06 --> Final output sent to browser
 DEBUG - 2024-08-07 13:13:06 --> Total execution time: 1.1476
+INFO - 2024-08-07 13:50:06 --> Config Class Initialized
+INFO - 2024-08-07 13:50:06 --> Hooks Class Initialized
+DEBUG - 2024-08-07 13:50:06 --> UTF-8 Support Enabled
+INFO - 2024-08-07 13:50:06 --> Utf8 Class Initialized
+INFO - 2024-08-07 13:50:06 --> URI Class Initialized
+DEBUG - 2024-08-07 13:50:06 --> No URI present. Default controller set.
+INFO - 2024-08-07 13:50:06 --> Router Class Initialized
+INFO - 2024-08-07 13:50:06 --> Output Class Initialized
+INFO - 2024-08-07 13:50:06 --> Security Class Initialized
+DEBUG - 2024-08-07 13:50:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-08-07 13:50:06 --> Input Class Initialized
+INFO - 2024-08-07 13:50:06 --> Language Class Initialized
+INFO - 2024-08-07 13:50:06 --> Loader Class Initialized
+INFO - 2024-08-07 13:50:06 --> Controller Class Initialized
+INFO - 2024-08-07 13:50:06 --> File loaded: C:\Xampp\htdocs\CI-3.0\application\views\welcome_message.php
+INFO - 2024-08-07 13:50:06 --> Final output sent to browser
+DEBUG - 2024-08-07 13:50:06 --> Total execution time: 0.0292

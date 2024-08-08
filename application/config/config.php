@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'https://a0d9-122-160-255-97.ngrok-free.app/ci-3.0/index.php/';
+$config['base_url'] = 'https://53b1-122-160-255-97.ngrok-free.app/ci-3.0/index.php/';
 
 /*
 |--------------------------------------------------------------------------

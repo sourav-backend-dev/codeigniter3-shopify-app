@@ -1,0 +1,13 @@
+update the size of ids in variant and product 
+
+ALTER TABLE `variants_data`
+MODIFY `id` BIGINT NOT NULL;
+ALTER TABLE `variants_data`
+MODIFY `product_id` BIGINT NOT NULL;
+
+
+ALTER TABLE `products`
+MODIFY `id` BIGINT NOT NULL;
+
+ALTER TABLE `images`
+MODIFY `id` BIGINT NOT NULL;
